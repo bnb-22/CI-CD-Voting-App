@@ -4,7 +4,7 @@ Automating the deployment and continuous integration of a voting application, en
 ![CICDDiagram (1)](https://github.com/bnb-22/CI-CD-Voting-App/assets/122742199/497f3881-0d27-4f57-84a3-94e5283c21b2)
 
 
-Project Name: Voting App
+
 
 Description:
 
